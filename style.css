@@ -17,13 +17,13 @@
 }
 
 .text {
-  color:rgb(177, 27, 27);
-  font-family:monospace;
-  font-size:130%;
+  color: rgb(177, 27, 27);
+  font-family: monospace;
+  font-size: 130%;
 }
 
 #text-id {
-  font-family:monospace;
-  font-size:130%;
-  color:rgb(177, 27, 27);
+  font-family: monospace;
+  font-size: 130%;
+  color: rgb(177, 27, 27);
 }
